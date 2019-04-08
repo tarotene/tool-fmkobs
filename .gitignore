@@ -1,0 +1,6 @@
+bin/
+dat/
+mod/*.mod
+obj/*.o
+test/*
+
